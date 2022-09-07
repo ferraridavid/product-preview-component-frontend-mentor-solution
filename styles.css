@@ -143,7 +143,7 @@ h4 {
   }
 
   .image {
-    background-image: url('/images/image-product-desktop.jpg');
+    background-image: url('./images/image-product-desktop.jpg');
     /* remove the hard-coded height of 240px */
     /* it will adapt thanks to flex*/
     height: unset;
